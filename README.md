@@ -15,6 +15,3 @@ Amaç: Yolcuların hayatta kalıp kalmadığını tahmin eden bir makine öğren
 - **Submission**: Kaggle’a yüklenebilir `submission.csv`
 
 ---
-
-## 📂 Proje Yapısı
-
